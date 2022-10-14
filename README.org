@@ -1,4 +1,4 @@
-* Fall 2022 - Lab 06
+* Spring 2022 - Lab 06
 
 * Last name:
 
@@ -17,7 +17,7 @@
   https://maryash.github.io/135/labs/lab_06.html 
 
 
-* Specific instructions for lab 06
+* Specific instructions for lab 05
 
 This lab requires that you implement doctest based tests. There is
 already a skeleton ~Makefile~ with targets for ~main~ and ~tests~ as
